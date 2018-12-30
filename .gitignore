@@ -22,4 +22,9 @@
 *.dvi
 *.html
 *Thumbs.db
-*.DS_STore
+*.DS_Store
+*.md5
+*.svg
+*.dpth
+*.png
+
